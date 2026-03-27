@@ -19,7 +19,7 @@ bank-churn-analysis/
 
 ## 📊 Dataset
 
-**Customer-Churn-Records.csv** — Bank customer data with 10,000 records.
+**Customer-Churn-Records.csv** — The dataset used in this study is the Bank Customer Churn dataset sourced from Kaggle (Kollipara, n.d.), containing 10,000 records across 18 variables including demographic, financial, and behavioural attributes.
 
 | Feature | Description |
 |---|---|
